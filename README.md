@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento fullstack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victor-ribeiro-broetto-017599209" target="_blank">
+  <a href="www.linkedin.com/in/victor-ribeiro-broetto-017599209" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
